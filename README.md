@@ -1,1 +1,1 @@
-# line-command-chat
+# Chat application which runs on terminal 
